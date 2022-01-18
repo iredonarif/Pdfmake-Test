@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "firstName": "Kouti",
+        "lastName": "KASSANKOGNO",
+        "position": "Software Developer",
+        "office": "Sokode",
+        "age": "26",
+        "startDate": "2022-01-05",
+        "salary": "300000"
+    },
+    {
+        "id": 2,
+        "firstName": "Djamal",
+        "lastName": "SABIR",
+        "position": "Data Science",
+        "office": "Lome",
+        "age": "29",
+        "startDate": "2022-01-03",
+        "salary": "350000"
+    },
+    {
+        "id": 3,
+        "firstName": "Issou",
+        "lastName": "ABALO",
+        "position": "Database Administrator",
+        "office": "Lome",
+        "age": "26",
+        "startDate": "2022-01-04",
+        "salary": "300000"
+    },
+    {
+        "id": 4,
+        "firstName": "Basseyak",
+        "lastName": "BOUDI",
+        "position": "Accountant",
+        "office": "Kara",
+        "age": "27",
+        "startDate": "2022-01-08",
+        "salary": "200000"
+    },
+    {
+        "id": 5,
+        "firstName": "Amida",
+        "lastName": "BOUBAKAR",
+        "position": "Secretary",
+        "office": "Lome",
+        "age": "24",
+        "startDate": "2022-01-05",
+        "salary": "150000"
+    }
+]
